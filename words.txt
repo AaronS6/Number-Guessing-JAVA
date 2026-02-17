@@ -1,0 +1,8 @@
+//Feel free to make any changes of numbers in this list. The numbers are temporary, always feel free to commit to changes.
+500
+50
+30
+36
+78
+5878
+1929
